@@ -27,7 +27,7 @@ This project uses [CMake] and [Hunter] package manager.
 
 ### Linux
 
-1. GCC version >= TBF
+1. GCC version >= 4.8
 2. ....
 
 #### OpenCL support on Linux
